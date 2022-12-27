@@ -1,3 +1,5 @@
+package ExerciciosDIO.src;
+
 import java.util.Scanner;
 
 public class ExerciciosCalculadora {
